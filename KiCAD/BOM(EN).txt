@@ -1,0 +1,46 @@
+
+Microcontroller
+---------------
+PIC16F1946-I/PT (1 qty.)
+
+
+LCD
+---
+ITS-E0815SRNP (1 qty.)
+
+
+Solar panel
+-----------
+SINONAR SS-2515 (2 qty.)
+
+
+MOSFET
+------
+IRLML6402 (2 qty.)
+
+
+Quartz
+------
+DT-38T 32.768 kHz (1 qty.)
+
+
+SMD resistor
+------------
+47 к 5% 0805 (3 qty.)
+
+
+SMD capacitor
+-------------
+22 pF NP0 0805 (2 qty.)
+0,1 mk X7R 0805 (1 qty.)
+220 mk TANTAL TYPE C (1 qty.)
+
+
+Supercapacitor
+--------------
+1,5 F x 5 V C-TYPE (1 qty.)
+
+
+Button
+------
+KLS7-TS6601-9.5-180 (3 qty.)
